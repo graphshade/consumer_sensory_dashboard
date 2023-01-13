@@ -1,4 +1,4 @@
-# Consumer Sensory Evaluation Dashboard
+# Consumer Sensory Evaluation Power BI Dashboard
 
 ![](https://i.imgur.com/gWqVuPz.png)
 
@@ -33,12 +33,9 @@ The dashboard has the following features;
   <img src="https://i.imgur.com/M67Ti9N.png" width="500" />
 </p>
 -->
-<p float="left">
-  <img src="https://i.imgur.com/TAUXsFa.png" />
-</p>
-<p float="left">
-  <img src="https://i.imgur.com/eTEydi5.png"/> 
-</p>
-<p float="left">
-  <img src="https://i.imgur.com/M67Ti9N.png"/>
-</p>
+
+![](https://i.imgur.com/TAUXsFa.png)
+
+![](https://i.imgur.com/eTEydi5.png)
+
+![](https://i.imgur.com/M67Ti9N.png)
